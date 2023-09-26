@@ -1,0 +1,10 @@
+s = "my name is Shwetha"
+print(s.startswith("m"))
+print(s.endswith("S"))
+print(s.split())
+print(s.capitalize())
+print(s.title())
+print(s.upper())
+print(s.isupper())
+print(s.lower())
+print(s.lstrip())
